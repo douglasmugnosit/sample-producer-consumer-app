@@ -11,8 +11,8 @@ A simple message processing system used as as a sample to improve using **AI**
 └──────────┘       └─────────┘       └────┬─────┘
                                           │ store
                                      ┌────▼─────┐
-                                     │ DynamoDB  │
-                                     │  Table    │
+                                     │ DynamoDB │
+                                     │  Table   │
                                      └──────────┘
 ```
 

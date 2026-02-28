@@ -1,6 +1,6 @@
 # sample-producer-consumer-app
 
-A simple message processing system used as a demo for the **SRE Efficient** training.
+A simple message processing system used as as a sample to improve using **AI**
 
 ## Architecture
 
